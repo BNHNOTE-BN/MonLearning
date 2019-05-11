@@ -2,7 +2,7 @@
 
 ReadMe
 
-Trip Travel App Policy
+Mon Learning App Policy
 
 Introduction
 
