@@ -6,7 +6,7 @@ Mon Learning App Policy
 
 Introduction
 
-We understand how important data is to you, which is why we are committed to creating a safe and secure environment that all ages can enjoy.
+Mon Learning App is target to audience who wanna learn Mon Race Language Alphabet for fun.
 
 App do not store and request any data form user.
 
