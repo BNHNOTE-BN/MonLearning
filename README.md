@@ -8,8 +8,8 @@ Introduction
 
 We understand how important data is to you, which is why we are committed to creating a safe and secure environment that all ages can enjoy.
 
-App store your data locally. So your data is in your hand. If you uninstall the app. Your data will be lose. So please backup your data.
+App do not store and request any data form user.
 
-App Policy may update depend on update.
+User can only learn Mon Language alphabet with voice, replay voice and learn all alphabet continuously.
 
 This privacy policy governs your use of the iOS Mobile software application for iOS mobile devices that was created by nainghtaw@gmail.com.
